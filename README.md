@@ -1,5 +1,5 @@
-
-![Blue White Geometric Business Blog Banner (4)](https://user-images.githubusercontent.com/55124189/185519415-69423531-29e8-49a9-beac-4a1f66052c67.png)
+#               kasydev speaking ...
+![kasydev](https://github.com/kasydev/kasydev/assets/125959390/2eddc732-ff56-4c11-a919-7052d11a1d51)
 
 
 ![](https://komarev.com/ghpvc/?username=kasydev&color=green)
