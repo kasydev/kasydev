@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=kasydev&color=green)
 - 👀 **React.js Engineer**.
 - 😄 Pronouns: Mr.
-- 👯 I want to collobarate on projects using stack like React.js (JavaScript). 
+- 👯 I want to collobarate on projects using stack like React.js ( JavaScript ). 
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
 - 🌱 Currently learning Data Structures & Algorithms (JS).
 - 📫 *Reach out to me, let's work together => prospercollins19@gmail.com*.
