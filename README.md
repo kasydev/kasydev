@@ -9,6 +9,7 @@
 - 👯 I want to collobarate on projects using stack like React.js ( JavaScript ). 
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
 - 🌱 Currently learning Data Structures & Algorithms (JS).
+- 👯 I aspire to craft delightful UI/UX experiences.
 - 📫 *Reach out to me, let's work together => prospercollins19@gmail.com*.
 - ⚡ Fun fact: I wished I could have The Superman Power.     
 
