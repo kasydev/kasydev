@@ -1,9 +1,10 @@
 #               kasydev speaking ...
-![kasydev](https://github.com/kasydev/kasydev/assets/125959390/2eddc732-ff56-4c11-a919-7052d11a1d51)
+![github-header-image](https://github.com/kasydev/kasydev/assets/125959390/65989bb0-c4ea-4da0-beb9-2bea4b6a6bf0)
+
 
 
 ![](https://komarev.com/ghpvc/?username=kasydev&color=green)
-- 👀 **React.js Engineer**.
+- 👀 **React.js Developer | UIUX Designer**.
 - 😄 Pronouns: Mr.
 - 👯 I want to collobarate on projects using stack like React.js ( JavaScript ). 
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
