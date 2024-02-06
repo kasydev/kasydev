@@ -1,17 +1,8 @@
 #               kasydev speaking ...
-![github-header-image](https://github.com/kasydev/kasydev/assets/125959390/65989bb0-c4ea-4da0-beb9-2bea4b6a6bf0)
 
 
 
-![](https://komarev.com/ghpvc/?username=kasydev&color=green)
-- 👀 **React.js Developer | UIUX Designer**.
-- 😄 Pronouns: Mr.
-- 👯 I want to collobarate on projects using stack like React.js ( JavaScript ). 
-- 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
-- 🌱 Currently learning Data Structures & Algorithms (JS).
-- 👯 I aspire to craft delightful UI/UX experiences.
-- 📫 *Reach out to me, let's work together => prospercollins19@gmail.com*.
-- ⚡ Fun fact: I wished I could have The Superman Power.     
+
 
 ![Prosper Collins 's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasydev&show_icons=true&theme=radical)
 
