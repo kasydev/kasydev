@@ -1,8 +1,15 @@
 #               kasydev speaking ...
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Hi+there!+my+name+is+Prosper+Collins)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=,+welcome+to+my+README.)](https://git.io/typing-svg)
+
+A Java Full Stack Developer by day, code wizard by night! Fluent in Spring Boot, Angular, and AWS, I'm like a fine-tuned machine ready to craft the next big thing in tech. Let's build something together that's more electrifying than a Java stack trace and as dynamic as an Angular animation. AWS? More like AW-YES, let's scale new heights together! 😄💻 #GeekAndProud
 
 ### Connect with me 
 
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kasydev)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/prospercollins19@gmail.com)  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/08034206320)
+
+
+
   
 ### Technologies and Tools
 
