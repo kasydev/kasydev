@@ -4,6 +4,8 @@
 
 A Java Full Stack Developer by day, code wizard by night! Fluent in Spring Boot, Angular, and AWS, I'm like a fine-tuned machine ready to craft the next big thing in tech. Let's build something together that's more electrifying than a Java stack trace and as dynamic as an Angular animation. AWS? More like AW-YES, let's scale new heights together! 😄💻 #GeekAndProud
 
+- Knowledge is Power!
+
 ## GitHub Stats
 ![Prosper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasydev&show_icons=true&theme=radical)
 
