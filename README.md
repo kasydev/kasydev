@@ -1,4 +1,7 @@
 # @kasydev speaking ...
+
+![github-header-image](https://github.com/kasydev/kasydev/assets/125959390/5354fa25-95b9-4888-afeb-6e003c952a58)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&random=false&width=435&lines=Hi+there!+my+name+is+Prosper+Collins)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&random=false&width=435&lines=,+welcome+to+my+README.)](https://git.io/typing-svg)
 
